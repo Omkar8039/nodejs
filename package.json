@@ -1,0 +1,14 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "This is random app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "keywords": [
+    "hey"
+  ],
+  "author": "omkar",
+  "license": "MIT"
+}
